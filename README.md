@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiangHaiYang03&show_icons=true&theme=radical)](https://JiangHaiYang03.github.io/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiangHaiYang03)
+[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiangHaiYang03&show_icons=true&theme=radical)](https://JiangHaiYang03.github.io/)
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiangHaiYang03)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/JiangHaiYang03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/JiangHaiYang03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/JiangHaiYang03/output/github-contribution-grid-snake.svg">
+</picture>
 
