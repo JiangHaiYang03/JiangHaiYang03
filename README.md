@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 苦逼🐮🐴
 
 <!--
 **JiangHaiYang03/JiangHaiYang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiangHaiYang03&show_icons=true&theme=radical)](https://JiangHaiYang03.github.io/)
+[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiangHaiYang03&show_icons=true&theme=radical)](https://JiangHaiYang03.github.io/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiangHaiYang03)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiangHaiYang03)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiangHaiYang03)
 
