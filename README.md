@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+第一张图片：通过API发送请求调用的，每小时超过次数，会报错，导致图片丢失，不定期去查看一下，更新下状态。
+[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoye6&show_icons=true&theme=radical)](https://luoye6.github.io/)
+格式:[![用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=您的用户名&show_icons=true&theme=radical)](link-url也就是点击图片跳转的链接，我设置的是我的个人博客)
+
+第二张图片:通过API发送请求调用的，每小时超过次数，会报错，导致图片丢失，不定期去查看一下，更新下状态。
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6)](https://luoye6.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=您的用户名)](link-url也就是点击图片跳转的链接，我设置的是我的个人博客)
